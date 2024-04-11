@@ -1,0 +1,14 @@
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\bin\Debug\net8.0\LesFonctions.exe
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\bin\Debug\net8.0\LesFonctions.deps.json
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\bin\Debug\net8.0\LesFonctions.runtimeconfig.json
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\bin\Debug\net8.0\LesFonctions.dll
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\bin\Debug\net8.0\LesFonctions.pdb
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.AssemblyInfoInputs.cache
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.AssemblyInfo.cs
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.csproj.CoreCompileInputs.cache
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.dll
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\refint\LesFonctions.dll
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.pdb
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\LesFonctions.genruntimeconfig.cache
+C:\Users\Siwar\formation\QuetesC#\LesFonctions\LesFonctions\obj\Debug\net8.0\ref\LesFonctions.dll
